@@ -1,6 +1,6 @@
 # FunctionGemma Fine-Tuning for E-Commerce Customer Support
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/FunctionGemma_fine_tuning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scionoftech/functiongemma-finetuning-e-commerce/blob/main/FunctionGemma_fine_tuning.ipynb)
 
 A comprehensive, production-ready tutorial for fine-tuning Google's **FunctionGemma-270M-IT** model to build an intelligent E-Commerce Customer Support AI Agent with advanced function calling capabilities.
 
